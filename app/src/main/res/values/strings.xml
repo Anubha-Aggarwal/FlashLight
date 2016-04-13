@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FlashLight</string>
+    <string name="on">Flash ON</string>
+    <string name="off">Flash Off</string>
+    <string name="error">Error</string>
+    <string name="error_message">Sorry your device does not support flashlight</string>
+    <string name="flashContinue">Do you wish to turn off flash</string>
+</resources>
